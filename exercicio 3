@@ -1,0 +1,11 @@
+a) A lógica é adicionar 2 em cada termo. Então o próximo elemento será 9.
+
+b) A lógica é multiplicar cada termo por 2. Então o próximo elemento será 128.
+
+c) A lógica é elevar cada número ao quadrado. Então o próximo elemento será 49.
+
+d) A lógica é adicionar 20 ao termo anterior. Então o próximo elemento será 100.
+
+e) A lógica é somar os dois termos anteriores. Então o próximo elemento será 13.
+
+f) A lógica não é muito evidente, mas percebe-se que a sequência está aumentando em um ritmo crescente. O próximo número na sequência é 20.
